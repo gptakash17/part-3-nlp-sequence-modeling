@@ -19,7 +19,7 @@ The project includes:
 ---
 ## Dataset Source
 Dataset: Customer Support Text Classification Dataset  
-Source: https://https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+Source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
 ---
 
 ## Dataset
